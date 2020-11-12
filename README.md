@@ -16,6 +16,9 @@ Run npm install after downloading.
 ## Usage
 Run npm run start, if you have nodemon installed. Otherwise, run npx nodemon server.js in your command line.
 
+## Deployed Application
+https://young-harbor-86938.herokuapp.com/
+
 ## Questions
 <a href="https://github.com/tmessall">Github</a>
 
